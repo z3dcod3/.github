@@ -1,2 +1,2 @@
 # .github
-Aji thu heijau start
+kahunu kebe thu
